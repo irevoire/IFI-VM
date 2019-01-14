@@ -18,6 +18,8 @@ Visual Studio Entreprise Edition
 * Obligé de fonctionner sous MacOS / Windows
 * \>5Go
 
+![](illustration/visual-studio-entreprise.png)
+
 Visual Studio Code
 ------------------
 
@@ -25,6 +27,9 @@ Visual Studio Code
 * Disponible sous MacOS / Linux / Windows
 * Pas de gestion de projet
 * \<100Mo
+* Disponible dans les repo Aur
+
+![](illustration/visual-studio-code.png)
 
 JetBrains Rider
 ===============
