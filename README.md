@@ -37,6 +37,6 @@ Vim
 ===
 
 * Gratuit
-* Installer Plugin (vim-omnisharp)[https://github.com/OmniSharp/omnisharp-vim]
+* Installer Plugin [vim-omnisharp](https://github.com/OmniSharp/omnisharp-vim)
 * \<100Mo
 
