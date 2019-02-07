@@ -40,6 +40,15 @@ JetBrains Rider
 * Non intuitif => on a pas réussi à le faire fonctionner du premier coup
 * \>5Go
 
+Eclipse
+=======
+
+* Gratuit
+* Simple d'utilisation
+* \< 2Go
+
+![](illustration/eclipse.png)
+
 Vim
 ===
 
