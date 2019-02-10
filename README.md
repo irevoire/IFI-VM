@@ -15,7 +15,7 @@ Visual Studio Entreprise Edition
 --------------------------------
 
 | Négatif | Positif |
-|-------------------|
+|---------|---------|
 | Payante |         |
 | Disponible seulement sur MacOS / Windows |   |
 | \>5Go  |  |
