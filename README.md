@@ -25,14 +25,16 @@ Visual Studio Entreprise Edition
 Visual Studio Code
 ------------------
 
-* Gratuit
-* Disponible sous MacOS / Linux / Windows
-* Pas de gestion de projet
-* Ressemble plus a un éditeur de texte qu'un IDE
-* Opensource -> Dans les repos
-* OmniSharp ne fonctionne pas nativement avec ArchLinux => il génère un projet en dotNET 2.2 alors qu'il utilise une version d'Omnisharp qui ne supporte pas cette version
-* \<100Mo
-* Disponible dans les repo Aur
+| Négatif | Positif |
+|---------|---------|
+| Gratuit | |
+| Disponible sous MacOS / Linux / Windows | |
+| Pas de gestion de projet| |
+| Ressemble plus a un éditeur de texte qu'un IDE| |
+| Opensource -> Dans les repos| |
+| OmniSharp ne fonctionne pas nativement avec ArchLinux => il génère un projet en dotNET 2.2 alors qu'il utilise une version d'Omnisharp qui ne supporte pas cette version| |
+| \<100Mo | |
+|Disponible dans les repo Aur | |
 
 ![](illustration/visual-studio-code.png)
 
