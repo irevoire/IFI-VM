@@ -27,14 +27,11 @@ Visual Studio Code
 
 | Négatif | Positif |
 |---------|---------|
-| Gratuit | |
-| Disponible sous MacOS / Linux / Windows | |
-| Pas de gestion de projet| |
-| Ressemble plus a un éditeur de texte qu'un IDE| |
-| Opensource -> Dans les repos| |
+| Disponible sous MacOS / Linux / Windows | Gratuit |
+| Pas de gestion de projet| Opensource |
+| Pas dans les repos | \<100Mo |
+| Ce n'est pas un IDE mais un éditeur de texte | |
 | OmniSharp ne fonctionne pas nativement avec ArchLinux => il génère un projet en dotNET 2.2 alors qu'il utilise une version d'Omnisharp qui ne supporte pas cette version| |
-| \<100Mo | |
-|Disponible dans les repo Aur | |
 
 ![](illustration/visual-studio-code.png)
 
@@ -52,9 +49,9 @@ Eclipse
 =======
 | Négatif | Positif |
 |---------|---------|
-| Gratuit| |
-| Simple d'utilisation| |
-| Opensource -> Dans les repos| |
-| \< 500Mo| |
+| Il faut utiliser un plugin aCute pour faire du C# | Gratuit |
+| | Simple d'utilisation |
+| | Opensource -> Dans les repos |
+| | \< 500Mo |
 
 ![](illustration/eclipse.png)
