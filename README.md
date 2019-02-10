@@ -19,9 +19,11 @@ Visual Studio Entreprise Edition
 
 | Négatif | Positif |
 |---------|---------|
-| Payante |         |
-| Disponible seulement sur MacOS / Windows |   |
-| \>5Go  |  |
+| Payante | Très intuitif |
+| Disponible seulement sur MacOS / Windows | simple a prendre en main |
+| \>10Go  | Mode débug très accessible |
+
+Nous n'avons rencontré aucun vrai problème pendant l'utilisation.
 
 ![](illustration/visual-studio-entreprise.png)
 
@@ -56,5 +58,7 @@ Eclipse
 | | Simple d'utilisation |
 | | Opensource -> Dans les repos |
 | | \< 500Mo |
+
+Nous n'avons rencontré aucun vrai problème pendant l'utilisation.
 
 ![](illustration/eclipse.png)
