@@ -6,6 +6,9 @@ IFI
 
 On vous demande de tester et d'évaluer l'installation de différentes solutions afin de fournir afin de fournir à des développeurs un environnement prêt à l'emploi pour faire du développement d'application client/serveur 3-tiers avec ASP.NET MVC.
 
+Pour chaque éditeur nous avons essayé de générer un projet dotNET en utilisant les templates de base.
+Nous avons ensuite vérifié que quelques fonctionnalité comme l'autocompletion, la compilation ou l'exécution fonctionnait bien.
+
 ------------------
 
 Visual Studio
