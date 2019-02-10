@@ -51,11 +51,3 @@ Eclipse
 * \< 500Mo
 
 ![](illustration/eclipse.png)
-
-Vim
-===
-
-* Gratuit
-* Installer Plugin [vim-omnisharp](https://github.com/OmniSharp/omnisharp-vim)
-* \<100Mo
-
