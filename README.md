@@ -41,17 +41,20 @@ Visual Studio Code
 JetBrains Rider
 ===============
 
-* Payant
-* Non intuitif => on a pas réussi à le faire fonctionner du premier coup
-* Propriétaire -> Pas dans les repos
-* \>5Go
+| Négatif | Positif |
+|---------|---------|
+| Payant  | |
+| Non intuitif => on a pas réussi à le faire fonctionner du premier coup | |
+| Propriétaire -> Pas dans les repos | |
+| \>5Go | |
 
 Eclipse
 =======
-
-* Gratuit
-* Simple d'utilisation
-* Opensource -> Dans les repos
-* \< 500Mo
+| Négatif | Positif |
+|---------|---------|
+| Gratuit| |
+| Simple d'utilisation| |
+| Opensource -> Dans les repos| |
+| \< 500Mo| |
 
 ![](illustration/eclipse.png)
