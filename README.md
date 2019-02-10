@@ -57,7 +57,9 @@ Eclipse
 | Il faut utiliser un plugin aCute pour faire du C# | Gratuit |
 | | Simple d'utilisation |
 | | Opensource -> Dans les repos |
+| |  Mode débug très accessible |
 | | \< 500Mo |
+
 
 Nous n'avons rencontré aucun vrai problème pendant l'utilisation.
 
